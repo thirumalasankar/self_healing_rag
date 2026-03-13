@@ -1,4 +1,3 @@
-# self_healing_rag
 Self-Healing Retrieval-Augmented Generation (RAG)
 
 A production-style Self-Healing Retrieval-Augmented Generation (RAG) system built with:
@@ -163,4 +162,3 @@ FUTURE IMPROVEMENTS
 AUTHOR
 Thirumala Sankar Gurijala
 https://github.com/thirumalasankar
-"""
