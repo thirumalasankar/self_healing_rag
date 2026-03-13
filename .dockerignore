@@ -1,0 +1,17 @@
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.gitignore
+.env
+data
+vector_store
+*.pdf
+*.docx
+*.pptx
+*.csv
+*.parquet
+*.ipynb
+node_modules

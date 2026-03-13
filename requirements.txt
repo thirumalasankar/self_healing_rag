@@ -1,0 +1,15 @@
+langgraph
+faiss-cpu
+fastapi
+uvicorn
+streamlit
+sentence-transformers
+ollama
+requests
+unstructured
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+pypdf
